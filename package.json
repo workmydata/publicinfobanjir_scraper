@@ -4,7 +4,11 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "scrape": "node scraper.js"
+    "scrape": "node scrapePIB_.js"
   },
-  "dependencies": {}
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "cheerio": "^1.0.0",
+    "axios": "^1.6.0"
+  }
 }
