@@ -18,16 +18,16 @@ jobs:
         with:
           node-version: 18
 
-      # Install only if you later add deps (package-lock.json present)
+      # Install dependencies only if you have package-lock.json
       - run: npm ci
         if: ${{ hashFiles('package-lock.json') != '' }}
       - run: npm install
         if: ${{ hashFiles('package-lock.json') == '' }}
 
-      # Run the scraper (PIB_URL comes from GitHub Secrets; see next step)
-      - run: PIB_URL="${{ secrets.PIB_URL }}" npm run scrape
+      # Run your scraper script
+      - run: node scrapePIB_.js
 
-      # Commit only if pibdata.json actually changed
+      # Commit and push changes if pibdata.json updated
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
