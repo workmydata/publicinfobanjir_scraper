@@ -1,6 +1,7 @@
 // Allow older TLS and disable certificate rejection (only for public data)
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0"; 
-require('tls').DEFAULT_MIN_VERSION = 'TLSv1';
+import tls from "tls";
+tls.DEFAULT_MIN_VERSION = 'TLSv1';
 
 const fs = require("fs");
 const path = require("path");
