@@ -1,10 +1,10 @@
-// FIXED VERSION for PIB scraper
 
 import fs from "fs";
 import path from "path";
 import axios from "axios";
 import https from "https";
 import { fileURLToPath } from "url";
+import { SSL_OP_LEGACY_SERVER_CONNECT } from "constants";
 
 // Recreate __dirname in ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -20,7 +20,7 @@ const filePath = path.join(__dirname, "pibdata.json"); // keep in repo root
 // Create HTTPS agent that allows legacy renegotiation
 const httpsAgent = new https.Agent({
   rejectUnauthorized: false, // ⚠ disables SSL verification (ok for public data only)
-  secureOptions: require("constants").SSL_OP_LEGACY_SERVER_CONNECT, // allow legacy TLS renegotiation
+  secureOptions: SSL_OP_LEGACY_SERVER_CONNECT, // allow legacy TLS renegotiation
 });
 
 // Function to scrape PIB data
