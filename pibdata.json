@@ -11,7 +11,7 @@
     "wl_severity_level": "Warning",
     "level": "2",
     "wl_diff": "0.01",
-    "wl_date_time": "26/08/2025 01:45",
+    "wl_date_time": "26/08/2025 02:45",
     "trend": "Rising",
     "wl_type": "YES",
     "clean_rainfall": "0",
@@ -22,7 +22,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "14",
-    "rf_date_time": "26/08/2025 01:45",
+    "rf_date_time": "26/08/2025 02:15",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -30,8 +30,8 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "JOHOR",
-    "wl_date_timeAlert": "26/08/2025 01:45",
-    "rf_date_timeAlert": "26/08/2025 01:45",
+    "wl_date_timeAlert": "26/08/2025 02:45",
+    "rf_date_timeAlert": "26/08/2025 02:15",
     "rf_midnight": "0"
   },
   {
@@ -46,7 +46,7 @@
     "wl_severity_level": "Warning",
     "level": "2.7",
     "wl_diff": "0.01",
-    "wl_date_time": "26/08/2025 01:45",
+    "wl_date_time": "26/08/2025 02:45",
     "trend": "Rising",
     "wl_type": "YES",
     "clean_rainfall": "0",
@@ -57,7 +57,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "37",
-    "rf_date_time": "26/08/2025 01:45",
+    "rf_date_time": "26/08/2025 02:15",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -65,8 +65,8 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "JOHOR",
-    "wl_date_timeAlert": "26/08/2025 01:45",
-    "rf_date_timeAlert": "26/08/2025 01:45",
+    "wl_date_timeAlert": "26/08/2025 02:45",
+    "rf_date_timeAlert": "26/08/2025 02:15",
     "rf_midnight": "0"
   }
 ]
