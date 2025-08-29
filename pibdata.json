@@ -407,7 +407,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "30.5",
-    "rf_date_time": "30/08/2025 06:00",
+    "rf_date_time": "30/08/2025 06:15",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -416,7 +416,7 @@
     "wl3status": "OFF",
     "stateAlert": "MELAKA",
     "wl_date_timeAlert": "30/08/2025 06:00",
-    "rf_date_timeAlert": "30/08/2025 06:00",
+    "rf_date_timeAlert": "30/08/2025 06:15",
     "rf_midnight": "0"
   }
 ]
