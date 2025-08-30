@@ -578,7 +578,7 @@
     "cum_daily": "0",
     "rf_severity_level": "Error",
     "rf1hour": "-9999",
-    "rf3hours": "0",
+    "rf3hours": "",
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "6",
