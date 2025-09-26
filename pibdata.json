@@ -186,7 +186,7 @@
     "wl_severity_level": "Danger",
     "level": "8.1",
     "wl_diff": "-10007.1",
-    "wl_date_time": "26/09/2025 13:00",
+    "wl_date_time": "26/09/2025 13:15",
     "trend": "Rising",
     "wl_type": "YES",
     "clean_rainfall": "0",
@@ -197,7 +197,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "15.5",
-    "rf_date_time": "26/09/2025 13:00",
+    "rf_date_time": "26/09/2025 13:15",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -205,8 +205,8 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "PULAU PINANG",
-    "wl_date_timeAlert": "26/09/2025 13:00",
-    "rf_date_timeAlert": "26/09/2025 13:00",
+    "wl_date_timeAlert": "26/09/2025 13:15",
+    "rf_date_timeAlert": "26/09/2025 13:15",
     "rf_midnight": "0"
   },
   {
@@ -221,7 +221,7 @@
     "wl_severity_level": "Danger",
     "level": "6.5",
     "wl_diff": "-10005.5",
-    "wl_date_time": "26/09/2025 12:45",
+    "wl_date_time": "26/09/2025 13:00",
     "trend": "Rising",
     "wl_type": "YES",
     "clean_rainfall": "0",
@@ -232,7 +232,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "23",
-    "rf_date_time": "26/09/2025 12:45",
+    "rf_date_time": "26/09/2025 13:00",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "OFF",
@@ -240,8 +240,8 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "PULAU PINANG",
-    "wl_date_timeAlert": "26/09/2025 12:45",
-    "rf_date_timeAlert": "26/09/2025 12:45",
+    "wl_date_timeAlert": "26/09/2025 13:00",
+    "rf_date_timeAlert": "26/09/2025 13:00",
     "rf_midnight": "0"
   },
   {
@@ -267,7 +267,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "2",
-    "rf_date_time": "26/09/2025 13:00",
+    "rf_date_time": "26/09/2025 13:15",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -276,7 +276,7 @@
     "wl3status": "OFF",
     "stateAlert": "JOHOR",
     "wl_date_timeAlert": "26/09/2025 13:00",
-    "rf_date_timeAlert": "26/09/2025 13:00",
+    "rf_date_timeAlert": "26/09/2025 13:15",
     "rf_midnight": "0"
   },
   {
@@ -302,7 +302,7 @@
     "rftoday": "",
     "rf24hours": "3",
     "rf3days": "39",
-    "rf_date_time": "26/09/2025 12:45",
+    "rf_date_time": "26/09/2025 13:15",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -311,7 +311,7 @@
     "wl3status": "OFF",
     "stateAlert": "JOHOR",
     "wl_date_timeAlert": "26/09/2025 12:45",
-    "rf_date_timeAlert": "26/09/2025 12:45",
+    "rf_date_timeAlert": "26/09/2025 13:15",
     "rf_midnight": "0"
   },
   {
