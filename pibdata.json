@@ -22,7 +22,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "6.5",
-    "rf_date_time": "27/09/2025 01:00",
+    "rf_date_time": "27/09/2025 01:45",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -31,7 +31,7 @@
     "wl3status": "OFF",
     "stateAlert": "KEDAH",
     "wl_date_timeAlert": "27/09/2025 01:00",
-    "rf_date_timeAlert": "27/09/2025 01:00",
+    "rf_date_timeAlert": "27/09/2025 01:45",
     "rf_midnight": "0"
   },
   {
@@ -127,7 +127,7 @@
     "rftoday": "",
     "rf24hours": "1",
     "rf3days": "15",
-    "rf_date_time": "27/09/2025 01:45",
+    "rf_date_time": "27/09/2025 02:00",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -136,7 +136,7 @@
     "wl3status": "OFF",
     "stateAlert": "JOHOR",
     "wl_date_timeAlert": "27/09/2025 01:00",
-    "rf_date_timeAlert": "27/09/2025 01:45",
+    "rf_date_timeAlert": "27/09/2025 02:00",
     "rf_midnight": "0"
   },
   {
@@ -197,7 +197,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "0",
-    "rf_date_time": "27/09/2025 01:00",
+    "rf_date_time": "27/09/2025 01:30",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -206,7 +206,7 @@
     "wl3status": "OFF",
     "stateAlert": "WILAYAH PERSEKUTUAN LABUAN",
     "wl_date_timeAlert": "27/09/2025 01:00",
-    "rf_date_timeAlert": "27/09/2025 01:00",
+    "rf_date_timeAlert": "27/09/2025 01:30",
     "rf_midnight": "0"
   },
   {
@@ -232,7 +232,7 @@
     "rftoday": "",
     "rf24hours": "2",
     "rf3days": "2",
-    "rf_date_time": "27/09/2025 01:00",
+    "rf_date_time": "27/09/2025 01:45",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -241,7 +241,7 @@
     "wl3status": "OFF",
     "stateAlert": "PERLIS",
     "wl_date_timeAlert": "27/09/2025 01:00",
-    "rf_date_timeAlert": "27/09/2025 01:00",
+    "rf_date_timeAlert": "27/09/2025 01:45",
     "rf_midnight": "0"
   },
   {
@@ -337,7 +337,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "5",
-    "rf_date_time": "27/09/2025 01:00",
+    "rf_date_time": "27/09/2025 01:45",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -346,7 +346,7 @@
     "wl3status": "OFF",
     "stateAlert": "MELAKA",
     "wl_date_timeAlert": "27/09/2025 01:00",
-    "rf_date_timeAlert": "27/09/2025 01:00",
+    "rf_date_timeAlert": "27/09/2025 01:45",
     "rf_midnight": "0"
   }
 ]
