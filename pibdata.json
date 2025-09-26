@@ -11,7 +11,7 @@
     "wl_severity_level": "Warning",
     "level": "1.5",
     "wl_diff": "0.01",
-    "wl_date_time": "27/09/2025 03:15",
+    "wl_date_time": "27/09/2025 03:30",
     "trend": "Receding",
     "wl_type": "YES",
     "clean_rainfall": "0",
@@ -22,7 +22,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "39",
-    "rf_date_time": "27/09/2025 03:15",
+    "rf_date_time": "27/09/2025 03:30",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -30,8 +30,8 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "JOHOR",
-    "wl_date_timeAlert": "27/09/2025 03:15",
-    "rf_date_timeAlert": "27/09/2025 03:15",
+    "wl_date_timeAlert": "27/09/2025 03:30",
+    "rf_date_timeAlert": "27/09/2025 03:30",
     "rf_midnight": "0"
   }
 ]
