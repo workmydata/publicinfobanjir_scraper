@@ -116,7 +116,7 @@
     "wl_severity_level": "Alert",
     "level": "239.5",
     "wl_diff": "0.15",
-    "wl_date_time": "10/10/2025 02:00",
+    "wl_date_time": "10/10/2025 03:00",
     "trend": "Rising",
     "wl_type": "YES",
     "clean_rainfall": "",
@@ -135,7 +135,7 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "SABAH",
-    "wl_date_timeAlert": "10/10/2025 02:00",
+    "wl_date_timeAlert": "10/10/2025 03:00",
     "rf_date_timeAlert": "",
     "rf_midnight": ""
   },
