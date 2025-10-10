@@ -18,7 +18,7 @@
     "cum_daily": "12.5",
     "rf_severity_level": "Moderate",
     "rf1hour": "10.5",
-    "rf3hours": "14",
+    "rf3hours": "12.5",
     "rftoday": "",
     "rf24hours": "15.5",
     "rf3days": "43.5",
@@ -57,7 +57,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "0",
-    "rf_date_time": "11/10/2025 01:45",
+    "rf_date_time": "11/10/2025 02:15",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -66,7 +66,7 @@
     "wl3status": "OFF",
     "stateAlert": "SARAWAK",
     "wl_date_timeAlert": "11/10/2025 01:45",
-    "rf_date_timeAlert": "11/10/2025 01:45",
+    "rf_date_timeAlert": "11/10/2025 02:15",
     "rf_midnight": "0"
   },
   {
@@ -92,7 +92,7 @@
     "rftoday": "",
     "rf24hours": "16",
     "rf3days": "29.5",
-    "rf_date_time": "11/10/2025 01:45",
+    "rf_date_time": "11/10/2025 02:15",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -101,7 +101,7 @@
     "wl3status": "OFF",
     "stateAlert": "SARAWAK",
     "wl_date_timeAlert": "11/10/2025 01:45",
-    "rf_date_timeAlert": "11/10/2025 01:45",
+    "rf_date_timeAlert": "11/10/2025 02:15",
     "rf_midnight": "0"
   },
   {
@@ -127,7 +127,7 @@
     "rftoday": "",
     "rf24hours": "0.5",
     "rf3days": "2",
-    "rf_date_time": "11/10/2025 01:45",
+    "rf_date_time": "11/10/2025 02:15",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -136,7 +136,7 @@
     "wl3status": "OFF",
     "stateAlert": "SARAWAK",
     "wl_date_timeAlert": "11/10/2025 01:45",
-    "rf_date_timeAlert": "11/10/2025 01:45",
+    "rf_date_timeAlert": "11/10/2025 02:15",
     "rf_midnight": "0"
   },
   {
