@@ -162,7 +162,7 @@
     "rftoday": "",
     "rf24hours": "9",
     "rf3days": "77",
-    "rf_date_time": "26/10/2025 01:45",
+    "rf_date_time": "26/10/2025 02:00",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -171,7 +171,7 @@
     "wl3status": "OFF",
     "stateAlert": "KEDAH",
     "wl_date_timeAlert": "26/10/2025 01:15",
-    "rf_date_timeAlert": "26/10/2025 01:45",
+    "rf_date_timeAlert": "26/10/2025 02:00",
     "rf_midnight": "0"
   },
   {
@@ -441,8 +441,8 @@
     "rf3hours": "0",
     "rftoday": "",
     "rf24hours": "4.5",
-    "rf3days": "83.5",
-    "rf_date_time": "26/10/2025 01:30",
+    "rf3days": "83",
+    "rf_date_time": "26/10/2025 02:00",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -451,7 +451,7 @@
     "wl3status": "OFF",
     "stateAlert": "PULAU PINANG",
     "wl_date_timeAlert": "26/10/2025 01:00",
-    "rf_date_timeAlert": "26/10/2025 01:30",
+    "rf_date_timeAlert": "26/10/2025 02:00",
     "rf_midnight": "0"
   },
   {
