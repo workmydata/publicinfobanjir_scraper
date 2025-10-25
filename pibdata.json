@@ -466,7 +466,7 @@
     "wl_severity_level": "Alert",
     "level": "9",
     "wl_diff": "0.03",
-    "wl_date_time": "26/10/2025 02:30",
+    "wl_date_time": "26/10/2025 02:45",
     "trend": "Rising",
     "wl_type": "YES",
     "clean_rainfall": "0",
@@ -485,7 +485,7 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "PERAK",
-    "wl_date_timeAlert": "26/10/2025 02:30",
+    "wl_date_timeAlert": "26/10/2025 02:45",
     "rf_date_timeAlert": "26/10/2025 02:30",
     "rf_midnight": "0"
   },
