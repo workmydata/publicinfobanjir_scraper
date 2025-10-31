@@ -22,7 +22,7 @@
     "rftoday": "1092.5",
     "rf24hours": "1.5",
     "rf3days": "10.5",
-    "rf_date_time": "01/11/2025 04:45",
+    "rf_date_time": "01/11/2025 05:00",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -31,7 +31,7 @@
     "wl3status": "OFF",
     "stateAlert": "PERLIS",
     "wl_date_timeAlert": "01/11/2025 04:45",
-    "rf_date_timeAlert": "01/11/2025 04:45",
+    "rf_date_timeAlert": "01/11/2025 05:00",
     "rf_midnight": "0"
   },
   {
@@ -127,7 +127,7 @@
     "rftoday": "997",
     "rf24hours": "0",
     "rf3days": "0",
-    "rf_date_time": "01/11/2025 04:45",
+    "rf_date_time": "01/11/2025 05:00",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -136,7 +136,7 @@
     "wl3status": "OFF",
     "stateAlert": "MELAKA",
     "wl_date_timeAlert": "01/11/2025 04:45",
-    "rf_date_timeAlert": "01/11/2025 04:45",
+    "rf_date_timeAlert": "01/11/2025 05:00",
     "rf_midnight": "0"
   }
 ]
