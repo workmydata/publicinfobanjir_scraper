@@ -11,7 +11,7 @@
     "wl_severity_level": "Alert",
     "level": "0",
     "wl_diff": "0.03",
-    "wl_date_time": "31/10/2025 15:30",
+    "wl_date_time": "31/10/2025 15:45",
     "trend": "No Change",
     "wl_type": "YES",
     "clean_rainfall": "",
@@ -30,7 +30,7 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "JOHOR",
-    "wl_date_timeAlert": "31/10/2025 15:30",
+    "wl_date_timeAlert": "31/10/2025 15:45",
     "rf_date_timeAlert": "",
     "rf_midnight": ""
   }
