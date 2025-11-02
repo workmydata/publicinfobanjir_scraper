@@ -123,7 +123,7 @@
     "cum_daily": "16.5",
     "rf_severity_level": "Moderate",
     "rf1hour": "16",
-    "rf3hours": "1",
+    "rf3hours": "0.5",
     "rftoday": "1244",
     "rf24hours": "6",
     "rf3days": "31.5",
