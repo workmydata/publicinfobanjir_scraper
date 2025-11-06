@@ -11,7 +11,7 @@
     "wl_severity_level": "Alert",
     "level": "1.21",
     "wl_diff": "0.12",
-    "wl_date_time": "07/11/2025 01:45",
+    "wl_date_time": "07/11/2025 03:00",
     "trend": "Receding",
     "wl_type": "YES",
     "clean_rainfall": "0",
@@ -30,7 +30,7 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "SARAWAK",
-    "wl_date_timeAlert": "07/11/2025 01:45",
+    "wl_date_timeAlert": "07/11/2025 03:00",
     "rf_date_timeAlert": "",
     "rf_midnight": "0"
   }
