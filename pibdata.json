@@ -291,7 +291,7 @@
     "wl_severity_level": "Warning",
     "level": "0.5",
     "wl_diff": "0.26",
-    "wl_date_time": "08/11/2025 04:15",
+    "wl_date_time": "08/11/2025 04:45",
     "trend": "Receding",
     "wl_type": "YES",
     "clean_rainfall": "",
@@ -310,7 +310,7 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "JOHOR",
-    "wl_date_timeAlert": "08/11/2025 04:15",
+    "wl_date_timeAlert": "08/11/2025 04:45",
     "rf_date_timeAlert": "",
     "rf_midnight": ""
   },
