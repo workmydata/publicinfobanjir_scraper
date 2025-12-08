@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "station_id": "25823",
+    "station_name": "Sg. Nerus di Kg. Jeram",
+    "district": "Kuala Nerus",
+    "state": "TERENGGANU",
+    "latitude": "5.336836",
+    "longitude": "103.057869",
+    "main_basin": "Sungai Terengganu",
+    "clean_water_level": "2.04",
+    "wl_severity_level": "Alert",
+    "level": "2",
+    "wl_diff": "0.04",
+    "wl_date_time": "09/12/2025 06:00",
+    "trend": "Rising",
+    "wl_type": "YES",
+    "clean_rainfall": "0",
+    "cum_daily": "0",
+    "rf_severity_level": "No Rainfall",
+    "rf1hour": "0",
+    "rf3hours": "",
+    "rftoday": "756.5",
+    "rf24hours": "0.5",
+    "rf3days": "25",
+    "rf_date_time": "09/12/2025 01:00",
+    "wl1_status": "ON",
+    "rf_type": "YES",
+    "rf_status": "ON",
+    "alert_hour": "2",
+    "wl2status": "OFF",
+    "wl3status": "OFF",
+    "stateAlert": "TERENGGANU",
+    "wl_date_timeAlert": "09/12/2025 06:00",
+    "rf_date_timeAlert": "",
+    "rf_midnight": "0"
+  }
+]
