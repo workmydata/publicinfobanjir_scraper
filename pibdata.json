@@ -49,15 +49,15 @@
     "wl_date_time": "",
     "trend": "",
     "wl_type": "NO",
-    "clean_rainfall": "11",
-    "cum_daily": "18",
+    "clean_rainfall": "15",
+    "cum_daily": "33",
     "rf_severity_level": "Moderate",
-    "rf1hour": "17",
+    "rf1hour": "26",
     "rf3hours": "",
     "rftoday": "",
     "rf24hours": "18",
     "rf3days": "39",
-    "rf_date_time": "28/12/2025 04:00",
+    "rf_date_time": "28/12/2025 04:15",
     "wl1_status": "OFF",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -66,7 +66,7 @@
     "wl3status": "OFF",
     "stateAlert": "JOHOR",
     "wl_date_timeAlert": "",
-    "rf_date_timeAlert": "28/12/2025 04:00",
+    "rf_date_timeAlert": "28/12/2025 04:15",
     "rf_midnight": "0"
   }
 ]
