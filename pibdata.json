@@ -101,7 +101,7 @@
     "wl3status": "OFF",
     "stateAlert": "SARAWAK",
     "wl_date_timeAlert": "12/01/2026 00:45",
-    "rf_date_timeAlert": "12/01/2026 00:30",
+    "rf_date_timeAlert": "",
     "rf_midnight": "0"
   },
   {
@@ -136,7 +136,7 @@
     "wl3status": "NA",
     "stateAlert": "PAHANG",
     "wl_date_timeAlert": "12/01/2026 00:45",
-    "rf_date_timeAlert": "12/01/2026 00:30",
+    "rf_date_timeAlert": "",
     "rf_midnight": "0"
   },
   {
@@ -171,7 +171,7 @@
     "wl3status": "OFF",
     "stateAlert": "PAHANG",
     "wl_date_timeAlert": "12/01/2026 00:45",
-    "rf_date_timeAlert": "12/01/2026 00:30",
+    "rf_date_timeAlert": "",
     "rf_midnight": "0"
   },
   {
@@ -206,7 +206,7 @@
     "wl3status": "OFF",
     "stateAlert": "PAHANG",
     "wl_date_timeAlert": "12/01/2026 00:45",
-    "rf_date_timeAlert": "12/01/2026 00:30",
+    "rf_date_timeAlert": "",
     "rf_midnight": "0"
   },
   {
@@ -241,42 +241,7 @@
     "wl3status": "OFF",
     "stateAlert": "PERLIS",
     "wl_date_timeAlert": "12/01/2026 00:45",
-    "rf_date_timeAlert": "12/01/2026 00:30",
-    "rf_midnight": "0"
-  },
-  {
-    "station_id": "27718",
-    "station_name": "Sg.Pelarit di Wang Kelian (F2)",
-    "district": "Padang Besar",
-    "state": "PERLIS",
-    "latitude": "6.671878",
-    "longitude": "100.185792",
-    "main_basin": "Sungai Perlis",
-    "clean_water_level": "105.87",
-    "wl_severity_level": "Alert",
-    "level": "105.8",
-    "wl_diff": "0.07",
-    "wl_date_time": "12/01/2026 00:30",
-    "trend": "Receding",
-    "wl_type": "YES",
-    "clean_rainfall": "0",
-    "cum_daily": "0",
-    "rf_severity_level": "No Rainfall",
-    "rf1hour": "0",
-    "rf3hours": "0",
-    "rftoday": "",
-    "rf24hours": "0",
-    "rf3days": "5.5",
-    "rf_date_time": "12/01/2026 00:30",
-    "wl1_status": "ON",
-    "rf_type": "YES",
-    "rf_status": "ON",
-    "alert_hour": "2",
-    "wl2status": "OFF",
-    "wl3status": "OFF",
-    "stateAlert": "PERLIS",
-    "wl_date_timeAlert": "12/01/2026 00:30",
-    "rf_date_timeAlert": "12/01/2026 00:30",
+    "rf_date_timeAlert": "",
     "rf_midnight": "0"
   },
   {
@@ -311,7 +276,7 @@
     "wl3status": "OFF",
     "stateAlert": "WILAYAH PERSEKUTUAN LABUAN",
     "wl_date_timeAlert": "12/01/2026 00:45",
-    "rf_date_timeAlert": "12/01/2026 00:30",
+    "rf_date_timeAlert": "",
     "rf_midnight": "0"
   },
   {
@@ -346,7 +311,7 @@
     "wl3status": "OFF",
     "stateAlert": "KEDAH",
     "wl_date_timeAlert": "12/01/2026 00:45",
-    "rf_date_timeAlert": "12/01/2026 00:30",
+    "rf_date_timeAlert": "",
     "rf_midnight": "0"
   },
   {
@@ -416,7 +381,7 @@
     "wl3status": "OFF",
     "stateAlert": "MELAKA",
     "wl_date_timeAlert": "12/01/2026 00:45",
-    "rf_date_timeAlert": "12/01/2026 00:30",
+    "rf_date_timeAlert": "",
     "rf_midnight": "0"
   }
 ]
