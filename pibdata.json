@@ -431,7 +431,7 @@
     "wl_severity_level": "Normal",
     "level": "1",
     "wl_diff": "-0.85",
-    "wl_date_time": "17/01/2026 03:45",
+    "wl_date_time": "17/01/2026 04:00",
     "trend": "Rising",
     "wl_type": "YES",
     "clean_rainfall": "0",
@@ -450,7 +450,7 @@
     "wl2status": "OFF",
     "wl3status": "OFF",
     "stateAlert": "SELANGOR",
-    "wl_date_timeAlert": "17/01/2026 03:45",
+    "wl_date_timeAlert": "17/01/2026 04:00",
     "rf_date_timeAlert": "17/01/2026 03:45",
     "rf_midnight": "12.5"
   },
