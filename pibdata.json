@@ -197,7 +197,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "0",
-    "rf_date_time": "20/01/2026 00:30",
+    "rf_date_time": "20/01/2026 00:45",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "OFF",
@@ -206,7 +206,7 @@
     "wl3status": "OFF",
     "stateAlert": "PAHANG",
     "wl_date_timeAlert": "20/01/2026 00:30",
-    "rf_date_timeAlert": "20/01/2026 00:30",
+    "rf_date_timeAlert": "20/01/2026 00:45",
     "rf_midnight": "0"
   },
   {
@@ -232,7 +232,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "0",
-    "rf_date_time": "20/01/2026 00:15",
+    "rf_date_time": "20/01/2026 00:45",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -241,7 +241,7 @@
     "wl3status": "OFF",
     "stateAlert": "PAHANG",
     "wl_date_timeAlert": "20/01/2026 00:15",
-    "rf_date_timeAlert": "20/01/2026 00:15",
+    "rf_date_timeAlert": "20/01/2026 00:45",
     "rf_midnight": "0"
   },
   {
@@ -267,7 +267,7 @@
     "rftoday": "",
     "rf24hours": "4",
     "rf3days": "4",
-    "rf_date_time": "20/01/2026 00:30",
+    "rf_date_time": "20/01/2026 00:45",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -276,7 +276,7 @@
     "wl3status": "OFF",
     "stateAlert": "PAHANG",
     "wl_date_timeAlert": "20/01/2026 00:30",
-    "rf_date_timeAlert": "20/01/2026 00:30",
+    "rf_date_timeAlert": "20/01/2026 00:45",
     "rf_midnight": "0"
   },
   {
@@ -302,7 +302,7 @@
     "rftoday": "",
     "rf24hours": "12",
     "rf3days": "12",
-    "rf_date_time": "20/01/2026 00:30",
+    "rf_date_time": "20/01/2026 00:45",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -311,7 +311,7 @@
     "wl3status": "OFF",
     "stateAlert": "MELAKA",
     "wl_date_timeAlert": "20/01/2026 00:30",
-    "rf_date_timeAlert": "20/01/2026 00:30",
+    "rf_date_timeAlert": "20/01/2026 00:45",
     "rf_midnight": "0"
   },
   {
@@ -372,7 +372,7 @@
     "rftoday": "",
     "rf24hours": "0",
     "rf3days": "0",
-    "rf_date_time": "20/01/2026 00:15",
+    "rf_date_time": "20/01/2026 01:00",
     "wl1_status": "ON",
     "rf_type": "YES",
     "rf_status": "ON",
@@ -381,7 +381,7 @@
     "wl3status": "OFF",
     "stateAlert": "PERLIS",
     "wl_date_timeAlert": "20/01/2026 00:15",
-    "rf_date_timeAlert": "20/01/2026 00:15",
+    "rf_date_timeAlert": "20/01/2026 01:00",
     "rf_midnight": "0"
   },
   {
