@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "station_id": "1307018_",
+    "station_name": "Simunjan",
+    "district": "Samarahan",
+    "state": "SARAWAK",
+    "latitude": "1.395527",
+    "longitude": "110.750611",
+    "main_basin": "Batang Sadong",
+    "clean_water_level": "",
+    "wl_severity_level": "",
+    "level": "",
+    "wl_diff": "",
+    "wl_date_time": "",
+    "trend": "",
+    "wl_type": "NO",
+    "clean_rainfall": "13.5",
+    "cum_daily": "27.5",
+    "rf_severity_level": "Moderate",
+    "rf1hour": "22.5",
+    "rf3hours": "5",
+    "rftoday": "794",
+    "rf24hours": "52",
+    "rf3days": "52",
+    "rf_date_time": "01/02/2026 01:45",
+    "wl1_status": "OFF",
+    "rf_type": "YES",
+    "rf_status": "ON",
+    "alert_hour": "2",
+    "wl2status": "OFF",
+    "wl3status": "OFF",
+    "stateAlert": "SARAWAK",
+    "wl_date_timeAlert": "",
+    "rf_date_timeAlert": "01/02/2026 01:45",
+    "rf_midnight": "0"
+  }
+]
