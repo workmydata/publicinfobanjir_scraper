@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "station_id": "6502011_",
+    "station_name": "Empangan Timah Tasuh",
+    "district": "Padang Besar",
+    "state": "PERLIS",
+    "latitude": "6.5694",
+    "longitude": "100.22917",
+    "main_basin": "Sungai Perlis",
+    "clean_water_level": "26.84",
+    "wl_severity_level": "Normal",
+    "level": "29.1",
+    "wl_diff": "-2.26",
+    "wl_date_time": "19/04/2026 03:00",
+    "trend": "Receding",
+    "wl_type": "YES",
+    "clean_rainfall": "-9999",
+    "cum_daily": "0",
+    "rf_severity_level": "Error",
+    "rf1hour": "-9999",
+    "rf3hours": "",
+    "rftoday": "",
+    "rf24hours": "1",
+    "rf3days": "15",
+    "rf_date_time": "19/04/2026 03:00",
+    "wl1_status": "ON",
+    "rf_type": "YES",
+    "rf_status": "ON",
+    "alert_hour": "2",
+    "wl2status": "OFF",
+    "wl3status": "OFF",
+    "stateAlert": "PERLIS",
+    "wl_date_timeAlert": "19/04/2026 03:00",
+    "rf_date_timeAlert": "19/04/2026 03:00",
+    "rf_midnight": "0"
+  }
+]
