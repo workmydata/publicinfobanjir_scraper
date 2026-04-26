@@ -190,7 +190,7 @@
     "trend": "Receding",
     "wl_type": "YES",
     "clean_rainfall": "-9999",
-    "cum_daily": "",
+    "cum_daily": "0",
     "rf_severity_level": "Error",
     "rf1hour": "-9999",
     "rf3hours": "",
